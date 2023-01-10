@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1c3f31e-6c7b-443a-a451-7e50fa6298fc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/JavaFundamentalsAdditionalExercises/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentalsAdditionalExercises/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFundamentalsAdditionalExercises/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentalsAdditionalExercises/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFundamentalsAdditionalExercises/PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB/PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB/Migrations/20221024155650_PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB.Context.InmobiliariaDatabaseContext.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentalsAdditionalExercises/PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB/PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB/Migrations/20221024155650_PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB.Context.InmobiliariaDatabaseContext.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFundamentalsAdditionalExercises/PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB/PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB/Migrations/20221024155650_PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB.Context.InmobiliariaDatabaseContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentalsAdditionalExercises/PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB/PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB/Migrations/20221024155650_PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB.Context.InmobiliariaDatabaseContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFundamentalsAdditionalExercises/out/production/JavaFundamentalsAdditionalExercises/exercise2/Trainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentalsAdditionalExercises/out/production/JavaFundamentalsAdditionalExercises/exercise2/Trainer.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JavaFundamentalsAdditionalExercises" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FB5TDrgeFIfaYgTQYJkSFwbz0f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/sebmartinez/IdeaProjects/JavaFundamentalsAdditionalExercises"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sebmartinez\IdeaProjects\JavaFundamentalsAdditionalExercises\src\exercise2betapolimorphism" />
+      <recent name="C:\Users\sebmartinez\IdeaProjects\JavaFundamentalsAdditionalExercises\src\exercise2beta2polimorphism" />
+      <recent name="C:\Users\sebmartinez\IdeaProjects\JavaFundamentalsAdditionalExercises\src\exercise2beta" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sebmartinez\IdeaProjects\JavaFundamentalsAdditionalExercises" />
+      <recent name="C:\Users\sebmartinez\IdeaProjects\Internship" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exercise2betapolimorphism.exercise2beta" />
+      <recent name="exercise1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise1.Main" />
+      <module name="JavaFundamentalsAdditionalExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainBeta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise2beta.exercise2.MainBeta" />
+      <module name="JavaFundamentalsAdditionalExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise2beta.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise2.Main" />
+      <module name="JavaFundamentalsAdditionalExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise2beta.MainBeta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise2beta.MainBeta" />
+      <module name="JavaFundamentalsAdditionalExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise2beta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise2betapolimorphism.exercise2beta.MainBeta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise2betapolimorphism.exercise2beta.MainBeta" />
+      <module name="JavaFundamentalsAdditionalExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise2betapolimorphism.exercise2beta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.exercise2beta.MainBeta" />
+        <item itemvalue="Application.exercise2.Main" />
+        <item itemvalue="Application.exercise2betapolimorphism.exercise2beta.MainBeta" />
+        <item itemvalue="Application.MainBeta" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1c3f31e-6c7b-443a-a451-7e50fa6298fc" name="Changes" comment="" />
+      <created>1663952650620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663952650620</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaFundamentalsAdditionalExercises/src/exercise2beta/PokemonsterWorld.java</url>
+          <line>266</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c554c91b-7d43-4c11-bfb8-35a5d6b35618" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F5DTO5fqIPOAK218lJ5NNYwJh7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/sebmartinez/IdeaProjects/Challenge3DessignPatterns"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sebmartinez\IdeaProjects\Challenge3DessignPatterns\src\builderbis" />
+      <recent name="C:\Users\sebmartinez\IdeaProjects\Challenge3DessignPatterns\src\minichallenge1inclass" />
+      <recent name="C:\Users\sebmartinez\IdeaProjects\Challenge3DessignPatterns\src\minichallengeedu" />
+      <recent name="C:\Users\sebmartinez\IdeaProjects\Challenge3DessignPatterns\src\minichallengebisbis" />
+      <recent name="C:\Users\sebmartinez\IdeaProjects\Challenge3DessignPatterns\src\minichallenge2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sebmartinez\IdeaProjects\Challenge3DessignPatterns" />
+      <recent name="C:\Users\sebmartinez\IdeaProjects\Internship" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Factory.Main">
+    <configuration name="Factory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factory.Main" />
+      <module name="Challenge3DessignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="minichallenge1.Main" />
+      <module name="Challenge3DessignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="minichallenge1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="builderEjemploSchrank.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="builderEjemploSchrank.Main" />
+      <module name="Challenge3DessignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builderEjemploSchrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="builder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="builder.Main" />
+      <module name="Challenge3DessignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minichallenge1static.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="minichallenge1static.Main" />
+      <module name="Challenge3DessignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="minichallenge1static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Factory.Main" />
+        <item itemvalue="Application.builderEjemploSchrank.Main" />
+        <item itemvalue="Application.builder.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.minichallenge1static.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c554c91b-7d43-4c11-bfb8-35a5d6b35618" name="Changes" comment="" />
+      <created>1663773061675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663773061675</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/Challenge3DessignPatterns/src/Factory/OperationFactory.java</url>
+          <line>3</line>
+          <properties field="result" class="Factory.OperationFactory" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
