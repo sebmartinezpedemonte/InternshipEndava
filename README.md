@@ -1,4 +1,3 @@
-# Exercises from the Endava Internship including Java Fundamentals and Design Patterns.
 # Java Fundamentals - Internship Exercises
 
 This document provides an overview of the key Java fundamentals I applied during my internship exercises.
