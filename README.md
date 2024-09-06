@@ -1,1 +1,1 @@
-# InternshipEndava
+# Endava Internship
